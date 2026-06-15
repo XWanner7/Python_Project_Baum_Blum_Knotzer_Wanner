@@ -1,5 +1,4 @@
-# Python_Project_Baum_Blum_Knotzer_Wanner
-# How to run
+# How to run the Study Planner on the web
 
 On Terminal
 
